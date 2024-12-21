@@ -116,6 +116,10 @@ a {
   color: #2e2f42;
 }
 
+.item-description {
+  letter-spacing: 0.02em;
+}
+
 .section-team {
   background-color: #f4f4fd;
 }
